@@ -1,0 +1,47 @@
+[
+  {
+    "company": "Microsoft",
+    "category": "Eligibility",
+    "content": "Microsoft campus placement eligibility: Minimum CGPA: 7.5. Eligible branches: CSE, IT, ECE. Backlogs allowed: 0 (no active backlogs at time of application)."
+  },
+  {
+    "company": "Microsoft",
+    "category": "Required Skills",
+    "content": "Microsoft campus placement required skills: Core: Data Structures & Algorithms, OOP, System Design basics. Preferred: Java or C++, SQL, Git."
+  },
+  {
+    "company": "Microsoft",
+    "category": "Interview Rounds",
+    "content": "Microsoft campus placement interview rounds: 1. Online Assessment (coding + aptitude). 2. Technical Interview 1 (DSA + problem solving). 3. Technical Interview 2 (system design + projects). 4. HR / Managerial round."
+  },
+  {
+    "company": "Amazon",
+    "category": "Eligibility",
+    "content": "Amazon campus placement eligibility: Minimum CGPA: 7.0. Eligible branches: CSE, IT, ECE, EEE. Backlogs allowed: 1 (must be cleared before joining)."
+  },
+  {
+    "company": "Amazon",
+    "category": "Required Skills",
+    "content": "Amazon campus placement required skills: Core: Data Structures & Algorithms, OOP. Preferred: Java or Python, AWS basics, SQL."
+  },
+  {
+    "company": "Amazon",
+    "category": "Interview Rounds",
+    "content": "Amazon campus placement interview rounds: 1. Online Assessment (coding + work simulation). 2. Technical Interview (DSA + Leadership Principles). 3. Bar Raiser round. 4. HR round."
+  },
+  {
+    "company": "TCS",
+    "category": "Eligibility",
+    "content": "TCS campus placement eligibility: Minimum CGPA: 6.0. Eligible branches: All engineering branches. Backlogs allowed: 2 (must be cleared before joining)."
+  },
+  {
+    "company": "TCS",
+    "category": "Required Skills",
+    "content": "TCS campus placement required skills: Core: Programming fundamentals (any language), aptitude, communication. Preferred: SQL, basic web development."
+  },
+  {
+    "company": "TCS",
+    "category": "Interview Rounds",
+    "content": "TCS campus placement interview rounds: 1. TCS NQT (National Qualifier Test). 2. Technical Interview. 3. HR Interview."
+  }
+]

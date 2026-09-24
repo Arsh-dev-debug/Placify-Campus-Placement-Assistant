@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Software Developer",
+    "category": "Required Skills",
+    "content": "Software Developer required skills: Data Structures & Algorithms, OOP, SQL, Git, one strong programming language such as Java, Python, or C++, and basic System Design."
+  },
+  {
+    "role": "Software Developer",
+    "category": "Preparation Topics",
+    "content": "Software Developer preparation topics: Arrays, Linked Lists, Trees, Graphs, Dynamic Programming, DBMS, Operating Systems, Computer Networks basics."
+  },
+  {
+    "role": "Data Analyst",
+    "category": "Required Skills",
+    "content": "Data Analyst required skills: SQL, Excel, Python (pandas), data visualization using Power BI or Tableau, and statistics basics."
+  },
+  {
+    "role": "Data Analyst",
+    "category": "Preparation Topics",
+    "content": "Data Analyst preparation topics: SQL joins and aggregations, statistical concepts, case-study style business problems, and dashboard building."
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Required Skills",
+    "content": "AI/ML Engineer required skills: Python, ML fundamentals including regression, classification and evaluation metrics, data preprocessing, basic deep learning, and SQL."
+  },
+  {
+    "role": "AI/ML Engineer",
+    "category": "Preparation Topics",
+    "content": "AI/ML Engineer preparation topics: Linear/logistic regression, decision trees, model evaluation using precision, recall and F1, overfitting, and feature engineering."
+  },
+  {
+    "role": "Frontend Developer",
+    "category": "Required Skills",
+    "content": "Frontend Developer required skills: HTML, CSS, JavaScript, React or equivalent framework, responsive design, and Git."
+  },
+  {
+    "role": "Frontend Developer",
+    "category": "Preparation Topics",
+    "content": "Frontend Developer preparation topics: DOM manipulation, component lifecycle, state management, CSS layout using flexbox/grid, and basic web performance."
+  }
+]
